@@ -1,4 +1,7 @@
 README:
+
+!!!!!!!Please use vcl to run the application.!!!!!!
+
 This project can finish the job of 1. import user 2. import topic 3.import aasignment Teams 4.import assignment participants 5.import course team 6.import course participant. 
 
 Follow steps below to do the test:
