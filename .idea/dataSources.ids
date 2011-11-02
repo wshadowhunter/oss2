@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails expertiza-expertiza-bc2944e: test" product="" version="" jdbc-version="" driver-version="" uuid="06e709f3-63e2-4cb8-925c-1e419376b989">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/pg_test</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails expertiza-expertiza-bc2944e: development" product="" version="" jdbc-version="" driver-version="" uuid="d13e9ebb-5c65-4260-a2f1-d87b9085de7b">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/pg_development</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails expertiza-expertiza-bc2944e: production" product="" version="" jdbc-version="" driver-version="" uuid="1943b25c-a0ad-4421-a659-7f81f234bcb3">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/pg_development</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+  <data-source source="LOCAL" name="Rails expertiza-expertiza-bc2944e: cucumber" product="" version="" jdbc-version="" driver-version="" uuid="0921e38c-696c-44c8-b423-b5e96bad35b5">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql://127.0.0.1/pg_test</jdbc-url>
+    <user-name>root</user-name>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/.RubyMine32/config/jdbc-drivers/mysql-connector-java-5.1.16-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
